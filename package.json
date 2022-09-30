@@ -12,8 +12,10 @@
   "devDependencies": {},
   "dependencies": {
     "@strapi/plugin-i18n": "4.1.7",
-    "@strapi/strapi": "4.1.7",
     "@strapi/plugin-users-permissions": "4.1.7",
+    "@strapi/strapi": "4.1.7",
+    "bookshelf": "^1.2.0",
+    "csvtojson": "^2.0.10",
     "sqlite3": "^5.0.2"
   },
   "author": {

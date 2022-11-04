@@ -12,7 +12,7 @@ module.exports = {
     let amount = body.amount;
 
     // Anonymous test key. Replace with your key.
-    const SECRET_KEY = 'sk_test_960bfde0VBrLlpK098e4ffeb53e1'
+    const SECRET_KEY = 'sk_live_9614cf01gE13NoPc9804f85b1d7d'
 
     await axios.post(
       'https://online.yoco.com/v1/charges/',
